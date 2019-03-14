@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TugasKeduaOlshop</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="DesContent">Description</string>
+    <string name="price">price</string>
+    <string name="Lorum_Ipsum">Lorum Ipsum</string>
+    <string name="hello_signIn_fragment">asas</string>
+</resources>
